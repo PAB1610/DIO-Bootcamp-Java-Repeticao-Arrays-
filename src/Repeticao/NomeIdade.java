@@ -16,6 +16,7 @@ public class NomeIdade {
         int idade;
 
         // a ideia é que este código se repita até que nome == 0
+        //utilizando while.
 
 
         while (true) {
